@@ -8,7 +8,7 @@ updated: 2026-05-25
 
 # Self-Reg vs Self-Discipline
 
-Dr. Stuart Shanker 在《孩子不是壞，只是壓力大》中提出的核心對比，是這門課的基本立場。
+[[Stuart-Shanker|Dr. Stuart Shanker]] 在《孩子不是壞，只是壓力大》中提出的核心對比，是這門課的基本立場。
 
 ## 對比
 
