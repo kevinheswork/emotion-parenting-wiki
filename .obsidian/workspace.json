@@ -4,31 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "03d4eabd92b7a42d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1f601e8b1fc75991",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/concepts/四句口訣.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "四句口訣"
-            }
-          }
-        ]
-      },
-      {
         "id": "ccae224c02627ff9",
         "type": "tabs",
         "children": [
           {
             "id": "4f81e57ea39f5960",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/overview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "overview"
+            }
+          }
+        ]
+      },
+      {
+        "id": "c41d57112dbbd38b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b29a5aa10cbb0f4f",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -68,11 +68,11 @@
               },
               "pinned": true,
               "icon": "terminal",
-              "title": "終端：✳ Ingest files 1-3"
+              "title": "終端：✳ Ingest 2-1"
             }
           },
           {
-            "id": "7f5cf0657996fd9b",
+            "id": "2929c166e9081094",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -279,29 +279,42 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "7f5cf0657996fd9b",
+  "active": "2929c166e9081094",
   "lastOpenFiles": [
-    "wiki/concepts/四句口訣.md",
+    "wiki/concepts/三明治說話術.md",
+    "wiki/concepts/教養不同調.md",
+    "wiki/sessions/02-4-教養不同調怎麼辦.md",
+    "wiki/concepts/道歉五步驟.md",
+    "wiki/sessions/02-3-不小心罵了孩子怎麼補救.md",
     "wiki/overview.md",
-    "wiki/concepts/防災vs救災.md",
-    "wiki/concepts/情緒命名.md",
-    "wiki/sessions/01-3-面對哭鬧不慌.md",
-    "raw/1-3 面對哭鬧不慌.md",
+    "wiki/concepts/六種領導風格.md",
+    "wiki/concepts/威嚇式教養.md",
+    "wiki/concepts/三十七十法則.md.tmp.30826.b6dab3bf1a02",
+    "wiki/concepts/LATER口訣.md",
+    "wiki/sessions/02-2-不發脾氣也能教.md",
+    "wiki/concepts/體罰.md",
+    "raw/2-4 當另一半對孩子發火的時候，我該怎麼辦.md",
+    "raw/2-3 不小心罵了孩子？怎麼樣才能補救？.md",
+    "wiki/concepts/3C陷阱.md",
+    "wiki/overview.md.tmp.30826.9376b6ab806b",
+    "wiki/concepts/內在動機.md",
+    "raw/2-2 不發脾氣也能教.md",
+    "wiki/sessions/02-1-真的不能打嗎.md",
+    "raw/2-1 真的不能打嗎.md",
     "wiki/index.md",
-    "wiki/sessions/01-2-孩子為什麼失控五大壓力來源.md",
-    "raw/1-2  孩子為什麼失控？解析情緒暴走的五大原因.md",
+    "wiki/concepts/七比一原則.md",
+    "wiki/concepts/身體主權.md",
+    "wiki/concepts/不走心.md",
+    "wiki/concepts/不要不要期.md",
+    "wiki/sessions/01-5-面對不要不要期的做法.md",
+    "raw/1-5 面對不要不要期的做法.md",
+    "wiki/concepts/Stuart-Shanker.md",
+    "wiki/log.md.tmp.13129.b5064136e10d",
     "wiki/overview.md.tmp.13129.c6cd02ebe09f",
-    "wiki/concepts/三層同理心.md",
-    "wiki/concepts/自我調節.md",
-    "wiki/concepts/Self-Reg vs Self-Discipline.md",
-    "wiki/concepts/五大壓力來源.md",
-    "歡迎.md",
     "raw/assets",
     "wiki/syntheses",
     "wiki/sessions",
     "wiki/concepts",
-    "wiki/log.md",
-    "CLAUDE.md",
     "wiki",
     "raw"
   ]
